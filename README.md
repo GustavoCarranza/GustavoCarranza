@@ -46,15 +46,12 @@
 ## 📺 Mis proyectos
 
 [<img align="left" alt="Formulae Calculo" width="30px" src="https://play-lh.googleusercontent.com/5kLMnce84PkTt4hQEnvN5iWW8FJUqlm07R7Y-V5dYch9KPloLLUghyDw9_a611A6DA=s180-rw" />][Formulae]
-**Formulae Calculo** *(Gratis)*
+**SafeTable** *(Sistema para la gestion y administración de reservaciones de restaurantes)*
 <br />
 <br />
 [<img align="left" alt="Fisica" width="30px" src="https://play-lh.googleusercontent.com/PRdpXg1uGaRQiP5SSJaEL8EvYtgdEC3sDBN1lclrHXINKRJezcXJ9Onr09l2yxxOX4k=s180-rw" />][Fisica]
-**Calculadora de Fisica** *(Gratis)*
+**Daily Quality Reports** *(Sistema para gestionar quejas de huspedes de un hotel)*
 <br />
-<br />
-[<img align="left" alt="Formulae Calculo Pro" width="30px" src="https://play-lh.googleusercontent.com/5kLMnce84PkTt4hQEnvN5iWW8FJUqlm07R7Y-V5dYch9KPloLLUghyDw9_a611A6DA=s180-rw" />][FormulaePro]
-**Formulae Calculo Pro** *(De Pago)*
 <br />
 <br />
 
