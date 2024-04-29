@@ -54,19 +54,3 @@
 <br />
 <br />
 <br />
-
-[Adobe]: https://www.adobe.com/mx/creativecloud.html?sdid=KQPRD&mv=search&ef_id=Cj0KCQjwmIuDBhDXARIsAFITC_4eIsfU0B1LEkZGVLr6Ql-FPQtYPLw5mGJbZSvEDzlvGf3CGKFJGTUaAk6dEALw_wcB:G:s&s_kwcid=AL!3085!3!442675031911!e!!g!!adobe!188200542!10039634022&gclid=Cj0KCQjwmIuDBhDXARIsAFITC_4eIsfU0B1LEkZGVLr6Ql-FPQtYPLw5mGJbZSvEDzlvGf3CGKFJGTUaAk6dEALw_wcB
-[website]: https://capdesis.com/
-[youtube]: https://www.youtube.com/channel/UChoDyFV5T1t9qWymeTz8Gvg
-[instagram]: https://www.instagram.com/c_h_o_c_h_y/
-[Facebook]: https://www.facebook.com/ChoChochitos
-[linkedin]: https://www.linkedin.com/in/jorge-salgado-miranda-74023b181/
-[cursoC]: https://www.udemy.com/course/programacion_en_c_desde_cero_a_experto/?referralCode=D0CF1FABF59B2D29079B
-[cursoGit&GitHub]: https://www.udemy.com/course/git-y-github-desde-cero-a-experto/?referralCode=D1D66BA1BD00C54733FF
-[cursoPhotoshop]: https://www.udemy.com/course/introduccion-a-adobe-photoshop-cc-2020-actualizado/?referralCode=B156AD3A3E7122C398DB
-[web]:  https://www.google.com/
-
-[Formulae]: https://play.google.com/store/apps/details?id=capdesis.formulae
-[FormulaePro]: https://play.google.com/store/apps/details?id=com.formulae.pro.formulae_calculo_pro
-[Fisica]: https://play.google.com/store/apps/details?id=app.ejemplocalc.CalculadoraFisica
-
