@@ -7,7 +7,7 @@
 - ⚡ Práctico desarrollando algunos proyectos, pequeños, medianos y grandes para adquirir nuevos retos y aprender nuevas soluciones
 - ⚡ Me gustar estar estudiando para aprender y adaptarme a las nuevas tecnologias y versiones recientes 
 
-### Contactame!:
+Contactame a través de mis redes sociales:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://www.linkedin.com/in/gustavo-carranza-rivera-6a00122a7/logos/linkedin-icon-2.svg" />][linkedin]
 
