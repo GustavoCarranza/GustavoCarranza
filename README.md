@@ -11,6 +11,8 @@
 <img align="left" src="https://raw.githubusercontent.com/simple-icons/simple-icons/a1df74e8004f80d02a8023b8ef091610b9a1136c/icons/facebook.svg" width="30" height="30" />
 <br />
 
+---
+
 ## Lenguajes y Herramientas que utilizo 🏆:
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" width="30" height="30" />
@@ -24,7 +26,6 @@
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="35" height="35" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original-wordmark.svg" width="35" height="35" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rollup/rollup-original-wordmark.svg" width="35" height="35" />
-<br />
 
 ---
 __Desarrollo Web:__
