@@ -17,10 +17,11 @@ Contactame a través de mis redes sociales:
 __Generales:__ 
 <br />
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="30" height="30" />
-<img align="bottom" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" width="30" height="30" />
+<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30" height="30"/>
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" width="30" height="30" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="30" height="30"/>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="30" height="30"/>
 <br />
 
