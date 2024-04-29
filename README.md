@@ -58,5 +58,5 @@
 ---
 ## Mis estadisticas 📊
 
-![Gustavo Carranza GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoCarranza&show_icons=true&theme=gruvbox)
+![Gustavo Carranza GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoCarranza&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCarranza&layout=donut)]
