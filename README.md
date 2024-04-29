@@ -45,11 +45,11 @@
 ---
 ## 📺 Mis proyectos
 
-[<img align="left" alt="Formulae Calculo" width="30px" src="https://play-lh.googleusercontent.com/5kLMnce84PkTt4hQEnvN5iWW8FJUqlm07R7Y-V5dYch9KPloLLUghyDw9_a611A6DA=s180-rw" />][Formulae]
+[<img align="left" alt="SafeTable" width="30px" src="https://raw.githubusercontent.com/argob/iconos/9f7a33bf1a2af64019f3414758da243f09f37a34/src/_icons/cola-de-espera.svg" />][]
 **SafeTable** *(Sistema para la gestion y administración de reservaciones de restaurantes)*
 <br />
 <br />
-[<img align="left" alt="Fisica" width="30px" src="https://play-lh.googleusercontent.com/PRdpXg1uGaRQiP5SSJaEL8EvYtgdEC3sDBN1lclrHXINKRJezcXJ9Onr09l2yxxOX4k=s180-rw" />][Fisica]
+[<img align="left" alt="Fisica" width="30px" src="https://raw.githubusercontent.com/argob/iconos/9f7a33bf1a2af64019f3414758da243f09f37a34/src/_icons/hotel-neg.svg" />][Fisica]
 **Daily Quality Reports** *(Sistema para gestionar quejas de huspedes de un hotel)*
 <br />
 <br />
