@@ -8,8 +8,8 @@
 - ⚡ Me gustar estar estudiando para aprender y adaptarme a las nuevas tecnologias y versiones recientes 
 
 Contactame a través de mis redes sociales:
+<br />
 <img align="left" src="https://raw.githubusercontent.com/simple-icons/simple-icons/a1df74e8004f80d02a8023b8ef091610b9a1136c/icons/facebook.svg" width="50" height="50" />
-<br>
 <br>
 
 ### Lenguajes y Herramientas que utilizo:
