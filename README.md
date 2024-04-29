@@ -16,8 +16,8 @@ Contactame a través de mis redes sociales:
 
 __Generales:__ 
 <br />
-<img align="bottom" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="30" height="30" />
+<img align="bottom" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30" height="30"/>
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" width="30" height="30" />
