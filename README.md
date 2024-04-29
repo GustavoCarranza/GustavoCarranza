@@ -39,7 +39,7 @@
 
 ---
 
-## Desarrollo Web:
+## Desarrollo Web 👨‍💻:
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bootstrap/bootstrap-original-wordmark.svg" width="30" height="30" />
@@ -49,7 +49,7 @@
 <br />
 
 ---
-## 📺 Mis proyectos
+## Mis proyectos 🌟: 
 
 <img align="left" alt="SafeTable" width="30px" src="https://raw.githubusercontent.com/argob/iconos/9f7a33bf1a2af64019f3414758da243f09f37a34/src/_icons/cola-de-espera.svg" /> 🏨
 **SafeTable** *(Sistema para la gestion y administración de reservaciones de restaurantes)* *(Implementado en Banyan Tree Mayakoba durante el periodo de prácticas 👨🏻‍🎓)*
@@ -61,7 +61,7 @@
 <br />
 
 ---
-## Mis estadisticas 📊
+## Mis estadisticas 📊:
 
 ![Gustavo Carranza GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoCarranza&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCarranza&layout=donut)
