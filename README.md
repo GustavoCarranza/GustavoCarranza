@@ -55,47 +55,6 @@
 <br />
 <br />
 
-## 🔎 Mis estadisticas:
-<details>
-    <summary>🔎 Ver</summary>
-    
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chochy2001&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chochy2001&show_icons=true&theme=tokyonight)
-
-<br />
-
-</details>
-
-## 📺 Últimos vídeos de YouTube
-<details>
-    <summary>📺 Ver</summary>
-    
-<!-- YOUTUBE:START -->
-- [Pablinsky / @CHOCHY](https://www.youtube.com/watch?v=SaQbp9SOLfM)
-- [Duós con Suscriptor de 8 años](https://www.youtube.com/watch?v=dDzSPNym1Go)
-- [Haciendo merge entre ramas en Git / @CHOCHY](https://www.youtube.com/watch?v=Nh7_qzfCgoM)
-- [Duós con Xbaby_bratzx](https://www.youtube.com/watch?v=qBO_udNhEso)
-- [Que son las ramas y como funcionan en Git / @CHOCHY](https://www.youtube.com/watch?v=0RxbgT-szXc)
-<!-- YOUTUBE:END -->
-    
-</details>
-
-## ❗️ Actividad Reciente
-<details>
-    <summary>❗️ Ver</summary>
-    
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10](https://github.com/ValeMerch/Git_GitHub/issues/10) in [ValeMerch/Git_GitHub](https://github.com/ValeMerch/Git_GitHub)
-2. ❗️ Closed issue [#13](https://github.com/ValeMerch/Git_GitHub/issues/13) in [ValeMerch/Git_GitHub](https://github.com/ValeMerch/Git_GitHub)
-3. ❗️ Opened issue [#13](https://github.com/ValeMerch/Git_GitHub/issues/13) in [ValeMerch/Git_GitHub](https://github.com/ValeMerch/Git_GitHub)
-4. ❗️ Opened issue [#12](https://github.com/chochy2001/Git_GitHub/issues/12) in [chochy2001/Git_GitHub](https://github.com/chochy2001/Git_GitHub)
-5. ❗️ Closed issue [#11](https://github.com/chochy2001/Git_GitHub/issues/11) in [chochy2001/Git_GitHub](https://github.com/chochy2001/Git_GitHub)
-<!--END_SECTION:activity-->
-
-</details>
-
-
 [Adobe]: https://www.adobe.com/mx/creativecloud.html?sdid=KQPRD&mv=search&ef_id=Cj0KCQjwmIuDBhDXARIsAFITC_4eIsfU0B1LEkZGVLr6Ql-FPQtYPLw5mGJbZSvEDzlvGf3CGKFJGTUaAk6dEALw_wcB:G:s&s_kwcid=AL!3085!3!442675031911!e!!g!!adobe!188200542!10039634022&gclid=Cj0KCQjwmIuDBhDXARIsAFITC_4eIsfU0B1LEkZGVLr6Ql-FPQtYPLw5mGJbZSvEDzlvGf3CGKFJGTUaAk6dEALw_wcB
 [website]: https://capdesis.com/
 [youtube]: https://www.youtube.com/channel/UChoDyFV5T1t9qWymeTz8Gvg
