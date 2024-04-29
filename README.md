@@ -39,23 +39,6 @@ __Desarrollo Web:__
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original-wordmark.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/laravel/laravel-line-wordmark.svg" width="30" height="30" />
 <br />
-
----
-__Diseño:__
-<br />
-<img align="bottom" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/xd/xd-plain.svg" width="30" height="30" />
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/premierepro/premierepro-original.svg" width="30" height="30" />
-<br />
-
----
-__Cursos:__
-<br />
-<img align="bottom" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="30" height="30" />
-<br />
-
 ---
 ### 📺 Mis aplicaciones
 
