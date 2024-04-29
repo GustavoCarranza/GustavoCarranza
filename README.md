@@ -59,7 +59,6 @@
 **Daily Quality Reports** *(Sistema para gestionar quejas de huspedes de un hotel)* *(Vendido e implementado en Banyan Tree Mayakoba 💲)*
 <br />
 <br />
-<br />
 
 ---
 ## Mis estadisticas 📊
