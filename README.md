@@ -1,6 +1,6 @@
 ### ¡Hola a todos! Mi nombre es Gustavo Carranza Rivera 👋
 
-## Soy desarroador web en proceso, aprendiendo cada vez con la práctica constante dia a dia... 
+## Soy desarrollador web en proceso, aprendiendo cada vez con la práctica constante dia a dia... 
 
 - ⚡ Me gusta estar constantemente aprendiendo cosas nuevas
 - ⚡ Me interesa conocer a más programadores para aprender de ellos 
@@ -9,7 +9,7 @@
 
 ### Contactame!:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" width="22px" src="https://www.linkedin.com/in/gustavo-carranza-rivera-6a00122a7/logos/linkedin-icon-2.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://www.linkedin.com/in/gustavo-carranza-rivera-6a00122a7/Instagram-logo.png" />][instagram]
 [<img align="left" alt="Facebook" width="22px" src="https://www.facebook.com/gustavo.carranzarivera/facebook-original.svg" />][Facebook]
 <br />
