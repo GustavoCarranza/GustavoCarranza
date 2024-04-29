@@ -58,4 +58,4 @@
 ---
 ## Mis estadisticas 📊
 
-![Gustavo Carranza GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoCarranza&show_icons=true&theme=dracula)
+![Gustavo Carranza GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoCarranza&show_icons=true&theme=gruvbox)
