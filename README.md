@@ -25,7 +25,7 @@
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original-wordmark.svg" width="35" height="35" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original-wordmark.svg" width="35" height="35" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="35" height="35" />
+<img align="left" src="https://raw.githubusercontent.com/joseluisgs/tailwind-init-gulp/424a56fc04d2efdb685f9905c29a30f252b2f8ee/src/img/icon.svg" width="35" height="35" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original-wordmark.svg" width="35" height="35" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rollup/rollup-original-wordmark.svg" width="35" height
 ="35" />
