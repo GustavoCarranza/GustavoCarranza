@@ -9,6 +9,8 @@
 - ⚡ Práctico desarrollando algunos proyectos, pequeños, medianos y grandes para adquirir nuevos retos y aprender nuevas soluciones
 - ⚡ Me gustar estar estudiando para aprender y adaptarme a las nuevas tecnologias y versiones recientes 
 
+<br />
+
 ## Contactame a través de mis redes sociales 👨‍💻:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/gustavo.carranzarivera)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/gustavo__carranza99/) 
