@@ -9,12 +9,14 @@
 
 Contactame a través de mis redes sociales:
 <br />
+<br />
 <img align="left" src="https://raw.githubusercontent.com/simple-icons/simple-icons/a1df74e8004f80d02a8023b8ef091610b9a1136c/icons/facebook.svg" width="30" height="30" />
 <br />
 
 ### Lenguajes y Herramientas que utilizo:
 
 __Generales:__ 
+<br />
 <br />
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" width="30" height="30" />
