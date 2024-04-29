@@ -8,7 +8,7 @@
 - ⚡ Me gustar estar estudiando para aprender y adaptarme a las nuevas tecnologias y versiones recientes 
 
 Contactame a través de mis redes sociales:
-
+<img align="left" src="" width="50" height="50" />
 <br>
 <br>
 
