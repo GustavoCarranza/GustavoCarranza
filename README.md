@@ -58,4 +58,4 @@
 ---
 ## Mis estadisticas 📊
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoCarranza)
+![](https://github-readme-stats.vercel.app/api?username=GustavoCarranza)
