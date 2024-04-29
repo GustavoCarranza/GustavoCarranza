@@ -1,6 +1,6 @@
 ## ¡Hola a todos! Mi nombre es Gustavo Carranza Rivera 👋
 
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="320" />
 
 ### Soy desarrollador web en proceso, aprendiendo cada vez más con la práctica constante dia a dia... 
 
