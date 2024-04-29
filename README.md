@@ -8,7 +8,7 @@
 - ⚡ Me gustar estar estudiando para aprender y adaptarme a las nuevas tecnologias y versiones recientes 
 
 ## Contactame a través de mis redes sociales 👨‍💻:
-<img align="left" src="https://www.flaticon.es/icono-gratis/facebook_2504903" width="30" height="30" />
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mike.dan.pc)
 <br />
 
 ---
