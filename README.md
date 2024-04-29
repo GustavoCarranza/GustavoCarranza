@@ -58,4 +58,4 @@
 ---
 ## Mis estadisticas 📊
 
-![Gustavo Carranza GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoCarranza&show_icons=true&theme=radical)
+![Gustavo Carranza GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoCarranza&show_icons=true&theme=synthwave)
