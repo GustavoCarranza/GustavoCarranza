@@ -10,8 +10,7 @@
 ### Contactame!:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://www.linkedin.com/in/gustavo-carranza-rivera-6a00122a7/logos/linkedin-icon-2.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://www.linkedin.com/in/gustavo-carranza-rivera-6a00122a7/Instagram-logo.png" />][instagram]
-[<img align="left" alt="Facebook" width="22px" src="https://www.facebook.com/gustavo.carranzarivera/facebook-original.svg" />][Facebook]
+
 <br />
 
 ### Lenguajes y Herramientas que utilizo:
