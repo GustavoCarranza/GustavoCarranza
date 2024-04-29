@@ -45,11 +45,11 @@
 ---
 ## 📺 Mis proyectos
 
-[<img align="left" alt="SafeTable" width="30px" src="https://raw.githubusercontent.com/argob/iconos/9f7a33bf1a2af64019f3414758da243f09f37a34/src/_icons/cola-de-espera.svg" />]
+[<img align="left" alt="SafeTable" width="30px" src="https://raw.githubusercontent.com/argob/iconos/9f7a33bf1a2af64019f3414758da243f09f37a34/src/_icons/cola-de-espera.svg" />][🏨]
 **SafeTable** *(Sistema para la gestion y administración de reservaciones de restaurantes)*
 <br />
 <br />
-[<img align="left" alt="Fisica" width="30px" src="https://raw.githubusercontent.com/argob/iconos/9f7a33bf1a2af64019f3414758da243f09f37a34/src/_icons/hotel-neg.svg" />]
+[<img align="left" alt="Fisica" width="30px" src="https://raw.githubusercontent.com/argob/iconos/9f7a33bf1a2af64019f3414758da243f09f37a34/src/_icons/hotel-neg.svg" />][🙎🏽]
 **Daily Quality Reports** *(Sistema para gestionar quejas de huspedes de un hotel)*
 <br />
 <br />
