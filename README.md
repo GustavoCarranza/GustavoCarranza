@@ -9,8 +9,6 @@
 
 Contactame a través de mis redes sociales:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://www.linkedin.com/in/gustavo-carranza-rivera-6a00122a7/logos/linkedin-icon-2.svg" />][linkedin]
-
 <br>
 <br>
 
