@@ -33,6 +33,9 @@
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original-wordmark.svg" width="35" height="35" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rollup/rollup-original-wordmark.svg" width="35" height
 ="35" />
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="35" height
+="35" />
+
 <br />
 <br />
 
