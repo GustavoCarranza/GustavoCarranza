@@ -35,6 +35,9 @@
 ="35" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="35" height
 ="35" />
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="35" height
+="35" />
+
 
 <br />
 <br />
