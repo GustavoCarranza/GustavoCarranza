@@ -1,6 +1,6 @@
 ## ¡Hola a todos! Mi nombre es Gustavo Carranza Rivera 👋
 
-<img align="right" alt="GIF" src="[https://giphy.com/gifs/Y4ak9Ki2GZCbJxAnJD](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDV6cTh2eHE1amQ4Y2dnYXhuYmd5Z2UzZjZmcWRjZW1oZ2NyZWh5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif)" width="400" height="320" />
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDV6cTh2eHE1amQ4Y2dnYXhuYmd5Z2UzZjZmcWRjZW1oZ2NyZWh5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.webp" width="400" height="320" />
 
 ### Soy desarrollador web en proceso, aprendiendo cada vez más con la práctica constante dia a dia... 
 
