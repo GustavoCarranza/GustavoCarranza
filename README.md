@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDV6cTh2eHE1amQ4Y2dnYXhuYmd5Z2UzZjZmcWRjZW1oZ2NyZWh5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.webp" width="400" height="320" />
 
-### Soy desarrollador web en proceso, aprendiendo cada vez más con la práctica constante dia a dia... 
+### Soy programadorFull-Stack, aprendiendo cada vez más con la práctica constante y la creación de proyectos de diferentes tamaños 
 
 - ⚡ Me gusta estar constantemente aprendiendo cosas nuevas
 - ⚡ Me interesa conocer a más programadores para aprender de ellos 
