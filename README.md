@@ -37,6 +37,12 @@
 ="35" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="35" height
 ="35" />
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mongodb/mongodb-original-wordmark.svg" width="35" height
+="35" />
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mongoose/mongoose-original-wordmark.svg" width="35" height
+="35" />
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/express/express-original-wordmark.svg" width="35" height
+="35" />
 
 
 <br />
