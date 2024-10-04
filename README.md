@@ -75,6 +75,11 @@
 **Daily Quality Reports** *(Sistema para gestionar quejas de huespedes de un hotel)* *(Vendidó e implementado en Banyan Tree Mayakoba 💲)*
 <br />
 <br />
+<img align="left" alt="Fisica" width="30px" src="https://cdn-icons-png.flaticon.com/128/2112/2112184.png" /> ![Uploading image.png…]()
+
+**DivAppSport** *(Aplicación web para gestionar los procesos de un gimnasio)* *(Se encuentra en desarrollo y esta planeada para distribución 💲)*
+<br />
+<br />
 
 ---
 ## Mis estadisticas 📊:
